@@ -1,2 +1,8 @@
-# SMiiLESTOOPiD
-Official SMiiLESTOOPiD storefront · original characters, sarcastic streetwear &amp; questionable decisions.
+README.md
+index.html
+styles.css
+.gitignore
+assets/
+brand/
+drop-001/
+shopify/
