@@ -18,3 +18,11 @@ MOBILE FIRST. Keep copy punchy.
 ## Production route (working plan)
 Print-on-demand (e.g., Printful/Printify) connected to Shopify, so products
 print when ordered — no upfront inventory cost.
+
+## Status — Nov 4, 2026
+- A Shopify store already exists for this project: "My Store" at
+  j0nk0e-sm.myshopify.com (set up late Oct 2026).
+- Store billing needs attention before launch (a small recurring bill is
+  failing on the card on file). Details stay out of this public repo.
+- Still blocking launch: the melty-face master artwork (see ARTWORK.md),
+  then Drop 001 product designs.
